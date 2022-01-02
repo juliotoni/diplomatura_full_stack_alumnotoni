@@ -1,0 +1,39 @@
+
+
+h1{
+    font-family:Tahoma;
+    font-weight: bold;
+    width: 30%;
+
+}
+h2{
+    color:white;
+    background-color: blue;
+    font-style: normal;
+    font-family:Arial;
+}
+p{
+    color:black;
+    font-style: normal;
+    font-family:verdana;
+    font-size: 16px;
+}
+.titulo{
+    padding-left: 20%;
+}
+.datos_personales{
+    width: 800px;
+
+}
+.formacion_academica{
+    width: 800px;
+
+}
+.experiencia_laboral{
+    width: 800px;
+
+}
+.idiomas{
+    width: 800px;
+
+}
